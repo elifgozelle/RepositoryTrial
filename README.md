@@ -1,2 +1,2 @@
 # RepositoryTrial
-Trial
+This is trial repository.
